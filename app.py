@@ -18,7 +18,7 @@ import dash_mantine_components as dmc
 
 
 
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP], assets_folder="assets\\")
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP], assets_folder="assets/")
 all_words = pd.read_csv("words.csv")
 all_chars = pd.read_csv("chars.csv")
 
@@ -42,21 +42,27 @@ def generate_edges(word_components: list[str], meaning):
     return edges, edges_nx
 
 
-def filter_graph(df, char):
-    return df.loc[df["0"].str.contains(char)]
+def filter_graph_hanzi(df:pd.DataFrame, char:str):
+    return df.loc[df["characters"].str.contains(char)]
 
 
-def gen_graph(df, pos_scaling=2000):
+def filter_graph_word(df:pd.DataFrame, word:str):
+    return df.loc[df["meanings"].str.contains(word)]
+
+
+def filter_hsk(df:pd.DataFrame, level:str):
+    raise NotImplementedError
+
+
+def gen_graph(df, pos_scaling=10000):
     edge_set = []
     edges_nx_all = []
 
+    char_pinyin_mapping = dict(zip(all_chars["character"], all_chars["pinyin"]))
 
-    char_pinyin_mapping = dict(zip(all_chars["1"], all_chars["0"]))
-
-    print(char_pinyin_mapping)
 
     for word in df.to_dict("records"):
-        edges, edges_nx = generate_edges(literal_eval(word["0"]), literal_eval(word["1"]))
+        edges, edges_nx = generate_edges(literal_eval(word["characters"]), literal_eval(word["meanings"]))
         edge_set += edges
         edges_nx_all += edges_nx
 
@@ -197,10 +203,18 @@ app.layout = html.Div([
     Input("search-btn", "n_clicks"),
 )
 
-def update_graph(search_string, n_clicks):
+def update_graph(search_string:str, n_clicks:int):
     print(search_string)
     if n_clicks and search_string!="" and search_string:
-        df = filter_graph(all_words, search_string)
+
+        if search_string.isalnum():
+            print("alnum search")
+            df = filter_graph_word(all_words, search_string)
+        else:
+            print("hanzi search")
+            df = filter_graph_hanzi(all_words, search_string)
+
+
         node_set, edge_set = gen_graph(df, 1000)
         return [*node_set, *edge_set]
     else:

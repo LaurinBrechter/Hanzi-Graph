@@ -1,0 +1,793 @@
+characters,meanings,word_type,hsk_level,word_frequency_stars
+"['已', '经']",['already'],[adv], [HSK: 2],5
+"['不', '得', '已']","[""act against one's will"", 'have no alternative but to', 'have to', 'to have no choice', 'must']",[adj], [HSK: 6],4
+"['而', '已']","[""that's all"", 'nothing more']",[adv], [HSK: 6],5
+"['已', '婚']",['married'],[adj],,5
+"['不', '已']","['endlessly', 'incessantly']",[adv],,4
+"['为', '时', '已', '晚']",['already too late'],"[adv, adj]",,4
+"['已', '故']","['the late', ' deceased']",[adj],,4
+"['早', '已']","[' early-already', ' long ago', ' (have done) for a long time']",[adv],,4
+"['迫', '不', '得', '已']","['to have no alternative', ' compelled by circumstances', 'forced into something']",[idiom],,4
+"['业', '已']",['already'],[adv],,3
+"['木', '已', '成', '舟']",[' fig. what is done cannot be undone'],[idiom],,3
+"['已', '往']",['the past'],[noun],,2
+"['年', '事', '已', '高']",['old in years'],[adj],,2
+"['赞', '叹', '不', '已']",['to be full of praise'],[idiom],,2
+"['万', '不', '得', '已']","['only when absolutely essential', ' as a last resort']",[idiom],,1
+"['仅', '此', '而', '已']","[""that's all"", 'just this and nothing more']",[adv],,1
+"['寿', '数', '已', '尽']",[],[idiom],,1
+"['已', '灭']",['extinct'],[adj],,1
+"['已', '知']",['known (to science)'],[adj],,1
+"['已', '经', '进', '行']","['already underway', 'already in progress']",[phrase],,1
+"['已', '见', '分', '晓']","['the result becomes apparent', ' (after) the dust has settled']",[phrase],,1
+"['悔', '之', '已', '晚']",['too late to be sorry'],[idiom],,1
+"['惊', '叹', '不', '已']",['to exclaim in astonishment'],[idiom],,1
+"['方', '兴', '未', '已']","['flourishing and still in the ascendant', ' rapidly expanding', ' still growing strong', ' on the up']",[idiom],,1
+"['弓', '箭']",['bow and arrow'],[noun],,4
+"['弹', '弓']","['catapult', 'sling']",[noun],,4
+"['左', '右', '开', '弓']","['lit. to shoot from both sides', ' fig. to display ambidexterity', ' in quick succession', ' to use both feet equally (football)']",[idiom],,2
+"['惊', '弓', '之', '鸟']","['lit. bird startled by a bowshot', ' fig. a frightened person']",[idiom],,2
+"['杯', '弓', '蛇', '影']","[' fig. unnecessary suspicions', 'overly fearful']",[idiom],,2
+"['鸟', '尽', '弓', '藏']","['lit. the birds are over', ' the bow is put away']",[idiom],,2
+"['弓', '弦']",['bowstring'],[noun],,1
+"['弓', '弩']",['crossbow'],[noun],,1
+"['弓', '箭', '手']",['archer'],[noun],,1
+"['弓', '腰']","['to bow', ' to bend at the waist']",[verb],,1
+"['弓', '身']","['to bend the body at the waist', ' to bow']",[verb],,1
+"['儿', '子']",['son'],[noun], [HSK: 1],5
+"['杯', '子']","['cup', ' glass']",[noun], [HSK: 1],5
+"['桌', '子']","[' table', ' desk']",[noun], [HSK: 1],5
+"['椅', '子']",[' chair'],[noun], [HSK: 1],5
+"['妻', '子']",[' wife'],[noun], [HSK: 2],5
+"['孩', '子']",['child'],[noun], [HSK: 2],5
+"['个', '子']","['height', 'stature', 'build', 'size']",[noun], [HSK: 3],4
+"['句', '子']",['sentence'],[noun], [HSK: 3],4
+"['帽', '子']","[' cap', ' hat']",[noun], [HSK: 3],5
+"['瓶', '子']",[' bottle'],[noun], [HSK: 3],5
+"['电', '子', '邮', '件']",['email'],[noun], [HSK: 3],3
+"['盘', '子']","[' tray', ' plate', ' dish']",[noun], [HSK: 3],5
+"['筷', '子']",[' chopsticks'],[noun], [HSK: 3],4
+"['裙', '子']",[' skirt'],[noun], [HSK: 3],5
+"['裤', '子']","[' trousers', ' pants']",[noun], [HSK: 3],5
+"['鼻', '子']",[' nose'],[noun], [HSK: 3],1
+"['勺', '子']","['scoop', 'ladle']",[noun], [HSK: 4],4
+"['包', '子']","[' steamed', ' stuffed bun']",[noun], [HSK: 4],4
+"['叶', '子']",[' leaf'],[noun], [HSK: 4],4
+"['孙', '子']","['grandson', ""son's son""]",[noun], [HSK: 4],5
+"['小', '伙', '子']","[' young fellow', ' lad']",[noun], [HSK: 4],5
+"['样', '子']","[' shape', ' appearance', ' manner', ' model']",[noun], [HSK: 4],5
+"['盒', '子']",['case'],[noun], [HSK: 4],5
+"['肚', '子']","[' belly', ' abdomen']",[noun], [HSK: 4],5
+"['卫', '生', '间']",[' bathroom'],[noun], [HSK: 4],5
+"['保', '卫']","['to defend', 'to safeguard']",[verb], [HSK: 6],5
+"['卫', '星']",[' satellite'],[noun], [HSK: 6],5
+"['捍', '卫']","['defend', 'uphold', 'safeguard']",[verb], [HSK: 6],4
+"['卫', '生']","['health', 'hygiene', 'sanitation']",[noun],,5
+"['大', '卫']",['David (a name)'],[noun],,5
+"['守', '卫']","['to guard', 'to defend']",[verb],,5
+"['警', '卫']",['(security) guard'],[noun],,5
+"['前', '卫']","['advanced guard', 'vanguard', 'avant-garde', 'forward (soccer position)']","[noun, adj]",,4
+"['卫', '兵']","['guard', 'bodyguard']",[noun],,4
+"['卫', '生', '纸']","['toilet paper', 'bathroom tissue']",[noun],,4
+"['卫', '队']",['guard (i.e. group of soldiers)'],[noun],,4
+"['护', '卫']","['an escort', 'a guard', 'to convoy']",[verb],,4
+"['正', '当', '防', '卫']","['reasonable self-defense', 'legitimate defense']",[noun],,4
+"['自', '卫']",['self-defense'],"[noun, verb]",,4
+"['门', '卫']",[' entrance guard'],[noun],,4
+"['防', '卫']","['to defend', 'defensive', 'defense']",[verb],,4
+"['人', '造', '卫', '星']",['artificial satellite'],[noun],,3
+"['侍', '卫']",['Imperial bodyguard'],[noun],,3
+"['卫', '冕']",[],[verb],,3
+"['卫', '士']","['guardian', 'defender']",[noun],,3
+"['护', '卫', '舰']",['corvette'],[noun],,3
+"['自', '卫', '队']","['self-defense force', ' the Japanese armed forces']",[noun],,3
+"['世', '卫']",['World Health Organization (WHO)'],[noun],,2
+"['也', '许']","['perhaps', 'maybe']",[adv], [HSK: 4],5
+"['也', '就', '是', '说']","['in other words', 'that is to say', 'so', 'thus']","[adv, conj]",,5
+"['也', '好']",['may as well\n'],[particle],,4
+"['也', '罢']","['(reduplicated) whether... or...', ' never mind']",[particle],,4
+"['再', '也']",['(not) any more'],[adv],,4
+"['维', '也', '纳']","['Vienna', ' capital of Austria']",[noun],,4
+"['之', '乎', '者', '也']","[' fig. semi-incomprehensible talk', ' double Dutch', ' all Greek to me']",[idiom],,2
+"['倒', '也', '是']","[""that's true (indicating concession)\n""]",[phrase],,2
+"['再', '也', '不']",['never again\n'],[adv],,2
+"['我', '也', '是']",['me too\n'],[phrase],,2
+"['说', '的', '也', '是']","['indeed', 'that is true\n']",[conj],,2
+"['一', '点', '也', '不']","['not in the least', 'no way']",[adv],,1
+"['不', '提', '也', '罢']","['best not to mention it', ' drop it', ' never mind', "" let's not talk about it""]",[verb],,1
+"['女', '儿']",['daughter'],[noun], [HSK: 1],5
+"['女', '士']","['lady', ' madam']",[noun], [HSK: 5],5
+"['妇', '女']",['woman'],[noun], [HSK: 5],5
+"['修', '女']",[],[noun],,5
+"['处', '女']","['virgin', 'maiden', 'inaugural']",[noun],,5
+"['女', '人']",['woman'],[noun],,5
+"['女', '友']",['a girlfriend'],[noun],,5
+"['女', '子']","['woman', 'female']",[noun],,5
+"['女', '孩']","['girl', 'lass']",[noun],,5
+"['女', '孩', '子']",['girl'],[noun],,5
+"['女', '性']","['woman', 'the female sex']",[noun],,5
+"['女', '朋', '友']","['female friend', 'girlfriend']",[noun],,5
+"['女', '王']",['queen'],[noun],,5
+"['女', '生']",['female student'],[noun],,5
+"['女', '神']","['goddess', ' nymph']",[noun],,5
+"['妓', '女']","['prostitute', ' hooker']",[noun],,5
+"['少', '女']",['maiden'],[noun],,5
+"['美', '女']",['beautiful woman'],[noun],,5
+"['仙', '女']",['fairy'],[noun],,4
+"['侄', '女']","['niece', ""brother's daughter""]",[noun],,4
+"['儿', '女']","['children', 'sons and daughters']",[noun],,4
+"['外', '孙', '女']","["" daughter's daughter""]",[noun],,4
+"['女', '主', '人']","['hostess', 'mistress']",[noun],,4
+"['女', '仆']","['female servant', ' drudge']",[noun],,4
+"['刀', '刃']","['knife blade', 'crucial point']",[noun],,4
+"['利', '刃']",['sharp blade'],[noun],,3
+"['游', '刃', '有', '余']","[""handling a butcher's cleaver with ease"", ' to do something skillfully and easily']",[idiom],,3
+"['迎', '刃', '而', '解']","['to split bamboo with one chop', ' a decisive solution to a problem', 'to cut the Gordian knot']",[idiom],,3
+"['兵', '不', '血', '刃']","[""lit. no blood on the men's swords"", ' fig. an effortless victory']",[idiom],,2
+"['兵', '刃']",['(bladed) weapons'],[noun],,1
+"['双', '刃']",['double-edged blade'],[noun],,1
+"['飞', '机']","['aircraft', ' airplane', ' plane']",[noun], [HSK: 1],5
+"['起', '飞']",['to take off (in an airplane)'],[verb], [HSK: 3],5
+"['飞', '禽', '走', '兽']",['birds and animals'],[idiom], [HSK: 6],1
+"['飞', '翔']",['to fly'],[verb], [HSK: 6],4
+"['飞', '跃']",['to leap'],[verb], [HSK: 6],4
+"['飞', '船']","['airship', 'spaceship']",[noun],,5
+"['飞', '行']","['aviation', 'flying']",[verb],,5
+"['飞', '行', '员']","['pilot', 'aviator']",[noun],,5
+"['宇', '宙', '飞', '船']",['spacecraft'],[noun],,4
+"['远', '走', '高', '飞']","['to go far', 'to escape to faraway places']",[idiom],,4
+"['飞', '奔']","['to dash (run fast)', 'to rush', 'to dart']",[verb],,4
+"['飞', '弹']",['missile'],[noun],,4
+"['飞', '快']","['very fast', 'at lightning speed']",[adv],,4
+"['飞', '扬']","['to rise', 'to fly upward']",[verb],,4
+"['飞', '机', '场']",[' airport'],[noun],,4
+"['飞', '机', '票']",['plane ticket\n'],[noun],,4
+"['飞', '碟']","['flying saucer', 'frisbee']",[noun],,4
+"['飞', '舞']","['to flutter', 'to dance in the breeze']",[verb],,4
+"['飞', '艇']",['airship'],[noun],,4
+"['飞', '越']",['surpass'],[verb],,4
+"['飞', '过']","['to fly over', 'to fly past']",[verb],,4
+"['飞', '逝']","['fleeting', 'passing quickly']",[verb],,4
+"['不', '翼', '而', '飞']","['disappear without trace', 'vanish all of a sudden', 'spread fast', 'spread like wildfire']",[idiom],,3
+"['满', '天', '飞']","['to rush around everywhere', 'always active']",[verb],,3
+"['学', '习']","['to learn', 'to study']","[verb, noun]", [HSK: 1],5
+"['习', '惯']","[' be used to', ' usual practice', ' habit']","[noun, verb]", [HSK: 3],5
+"['复', '习']","['revise', ' review']",[verb], [HSK: 3],4
+"['练', '习']","['practice', ' exercise', ' drill']","[noun, verb]", [HSK: 3],5
+"['预', '习']","[' preview', ' prepare lessons']",[verb], [HSK: 4],3
+"['实', '习']","['to practice', 'field work', 'to intern', 'internship']","[verb, noun]", [HSK: 5],5
+"['习', '俗']","['custom', 'tradition', 'local tradition', 'convention']",[noun], [HSK: 6],4
+"['演', '习']","['exercise', 'practice', 'to put on a play', 'to act']","[verb, noun]", [HSK: 6],4
+"['实', '习', '生']",['intern (student)'],[noun],,5
+"['习', '以', '为', '常']","['accustomed to', 'used to']",[idiom],,4
+"['习', '性']",['habit and characteristics'],[noun],,3
+"['习', '惯', '性']",['customary'],"[noun, adv]",,3
+"['学', '习', '班']",['workshop\n'],[noun],,3
+"['恶', '习']","['bad habit', 'vice']",[noun],,3
+"['温', '习']","['to review', 'to revise']",[verb],,3
+"['自', '习']","['to study by oneself', ' teach yourself']",[verb],,3
+"['补', '习']","['to take extra lessons', 'to cram (for a test)']",[verb],,3
+"['补', '习', '班']","['cram class', 'cram school']",[noun],,3
+"['见', '习']","['probation', 'learning on the job']",[noun],,3
+"['习', '气']","['bad habit', 'bad practice\n']",[noun],,2
+"['习', '题']",['school work exercises'],[noun],,2
+"['旧', '习']","['old habit', 'former custom']",[noun],,2
+"['熟', '习']","['to understand profoundly', ' well-versed', ' skillful', ' practiced', ' to have the knack']","[verb, adj]",,2
+"['叉', '子']",[' fork'],[noun], [HSK: 5],4
+"['交', '叉']","['to cross', 'to intersect']",[verb], [HSK: 6],5
+"['交', '叉', '口']",['(road) intersection'],[noun],,3
+"['交', '叉', '点']","['junction', 'crossroads', 'intersection point']",[noun],,3
+"['刀', '叉']",['knife and fork'],[noun],,3
+"['分', '叉']","['fork', 'bifurcation', 'to divide']","[noun, verb]",,3
+"['劈', '叉']","['the splits (move in dancing)', ' to do the splits']",[verb],,3
+"['叉', '腰']",['akimbo\n\n'],,,2
+"['鱼', '叉']",['harpoon'],[noun],,2
+"['二', '叉', '树']",['binary tree'],[noun],,1
+"['交', '叉', '学', '科']","['interdisciplinary', ' interdisciplinary subject (in science)']",[noun],,1
+"['叉', '形']",['forked'],[adj],,1
+"['叉', '架']","['trestle', 'X-shaped frame']",[noun],,1
+"['叉', '烧']",['barbecued pork'],[noun],,1
+"['立', '体', '交', '叉']",['overpass'],"[noun, adj]",,1
+"['钢', '叉']",['steel fork'],[noun],,1
+"['马', '上']","['at once', ' right away', ' immediately', 'lit. on horseback']",[adv], [HSK: 3],5
+"['马', '虎']","[' casual', ' careless']",[adj], [HSK: 4],4
+"['罗', '马']",['Rome'],[noun],,5
+"['马', '克']",[' mark (German or Finnish monetary unit)'],[noun],,5
+"['马', '戏', '团']",['circus'],[noun],,5
+"['马', '桶']",['toilet'],[noun],,5
+"['马', '路']",[' street'],[noun],,5
+"['马', '车']","['cart', 'chariot', 'carriage', 'buggy']",[noun],,5
+"['骑', '马']",['to ride a horse'],[verb],,5
+"['亚', '马', '逊']",['Amazon'],[noun],,4
+"['出', '马']","['to set out (on a campaign)', 'to stand for election', ""to throw one's cap in the ring""]",[verb],,4
+"['单', '枪', '匹', '马']","['lit. single spear and horse', ' fig. single handed', 'unaccompanied']",[idiom],,4
+"['危', '地', '马', '拉']",['Guatemala'],[noun],,4
+"['奥', '马', '哈']",['Omaha'],[noun],,4
+"['宝', '马']",['BMW (car company)'],[noun],,4
+"['巴', '拿', '马']",['Panama'],[noun],,4
+"['拍', '马', '屁']","['to flatter', 'to fawn on', 'to butter somebody up', 'toadying', 'boot-licking']",[verb],,4
+"['斑', '马']",['zebra'],[noun],,4
+"['河', '马']",['hippopotamus'],[noun],,4
+"['白', '马', '王', '子']","['prince charming', 'knight in shining armor']",[noun],,4
+"['种', '马']","['stallion', ' stud horse']",[noun],,4
+"['立', '马']","['at once', 'immediately', 'promptly', 'swiftly']",[adv],,4
+"['罗', '马', '尼', '亚']",['Romania'],[noun],,4
+"['蛛', '丝', '马', '迹']","[""lit. spider's thread and horse track"", 'tiny hints (of a secret)', 'traces', 'clue']",[idiom],,4
+"['家', '乡']","[' hometown', ' native place']",[noun], [HSK: 5],5
+"['乡', '镇']","['village', 'township']",[noun], [HSK: 6],3
+"['故', '乡']",[' hometown'],[noun], [HSK: 6],4
+"['乡', '下']","['country (as opposed to town or city)', ' rural']",[noun],,5
+"['乡', '村']","['rustic', 'village', 'countryside']",[noun],,5
+"['乡', '下', '人']","['country folk', ' rustic', ' rural folk']",[noun],,4
+"['乡', '巴', '佬']","['(derog.) villager', ' hick', ' bumpkin']",[noun],,4
+"['乡', '间']","['in the country', 'rural', 'pastoral']",[noun],,4
+"['乡', '亲']","['local people', 'villager', 'the folks back home']",[noun],,3
+"['乡', '土']","['native soil', ""one's native land"", ""one's hometown"", 'local (to an area)']",[noun],,3
+"['他', '乡']","['foreign land', "" away from one's native place""]",[noun],,3
+"['入', '乡', '随', '俗']","['When you enter a village', ' follow the local customs', ' do as the natives do', ' When in Rome', ' do as the Romans do']",[idiom],,3
+"['异', '乡']","['in a foreign land', 'away from home']",[noun],,3
+"['异', '国', '他', '乡']","['foreign lands and places', ' living as expatriate']",[idiom],,3
+"['思', '乡']",['to be homesick'],[verb],,3
+"['梦', '乡']","['the land of dreams', 'slumberland']",[noun],,3
+"['穷', '乡', '僻', '壤']",['a remote and desolate place'],[idiom],,3
+"['老', '乡']","['fellow townsman', 'fellow villager', 'somebody from the same hometown']",[noun],,3
+"['背', '井', '离', '乡']","[""to leave one's native place"", "" esp. against one's will""]",[idiom],,3
+"['衣', '锦', '还', '乡']",[' to return in glory'],[idiom],,3
+"['返', '乡']","[""to return to one's home town""]",[verb],,3
+"['下', '乡']",['go to the countryside'],[verb],,2
+"['乡', '愁']",[' nostalgia'],[noun],,2
+"['乡', '长']","['village chief', 'mayor (of village or township)']",[noun],,2
+"['丰', '富']","['to enrich', 'rich', 'plentiful', 'abundant']",[adj], [HSK: 4],5
+"['丰', '收']",['bumper harvest'],[adj], [HSK: 6],4
+"['丰', '满']","['ample', 'well developed', 'fully rounded']",[adj], [HSK: 6],4
+"['丰', '盛']","['rich', 'sumptuous']",[adj], [HSK: 6],4
+"['丰', '厚']","['generous', 'ample']",[adj],,4
+"['丰', '功', '伟', '绩']",['glorious achievement'],[idiom],,3
+"['丰', '富', '多', '彩']",['richly colorful'],[adj],,3
+"['丰', '衣', '足', '食']","['having ample food and clothing', ' well fed and clothed']",[idiom],,3
+"['丰', '产']","[' yield abundantly', ' produce plentifully']","[noun, adj]",,2
+"['丰', '功']","['brilliant (exploit)', ' great (achievement)']",[noun],,2
+"['丰', '姿']","['charm', ' good looks']","[adj, noun]",,2
+"['丰', '富', '多', '样']",[],[adj],,2
+"['丰', '硕']","['plentiful', 'substantial', 'rich (in resources etc)']",[adj],,2
+"['丰', '碑']","['large inscribed stele', 'fig. great achievement', 'imperishable masterpiece']",[noun],,2
+"['丰', '美']",['abundant and prosperous'],[adj],,2
+"['丰', '腴']","['full-bodied', 'well-rounded', 'fig. fertile land']",[adj],,2
+"['丰', '足']","['abundant', 'plenty']",[adj],,2
+"['丰', '韵']","['charm', 'fine-looking (woman)']",[adj],,2
+"['丰', '饶']",['rich and fertile'],[adj],,2
+"['五', '谷', '丰', '登']","['abundant harvest of all food crops', ' bumper grain harvest']",[idiom],,2
+"['丰', '俭', '由', '人']",[],[idiom],,1
+"['丰', '台']",[],[noun],,1
+"['丰', '台', '区']",[],[noun],,1
+"['国', '王']",[' king'],[noun], [HSK: 5],5
+"['王', '子']","['prince', 'son of a king']",[noun], [HSK: 5],5
+"['女', '王']",['queen'],[noun],,5
+"['王', '国']","['kingdom', 'realm']",[noun],,5
+"['冥', '王', '星']",['Pluto (dwarf planet)'],[noun],,4
+"['君', '王']",['sovereign king'],[noun],,4
+"['大', '王']","['king', 'magnate', 'person having expert skill in something']",[noun],,4
+"['天', '王', '星']",['Uranus (planet)'],[noun],,4
+"['帝', '王']","['regent', 'monarch']",[noun],,4
+"['拳', '王']",['boxing champion'],[noun],,4
+"['王', '冠']",['crown'],[noun],,4
+"['王', '后']",['queen'],[noun],,4
+"['王', '妃']",['princess (in Europe)'],[noun],,4
+"['王', '室']","['Royal family', 'Royal household', 'the Throne', 'the King']",[noun],,4
+"['王', '朝']",['dynasty'],[noun],,4
+"['王', '牌']",['trump card'],[noun],,4
+"['白', '马', '王', '子']","['prince charming', 'knight in shining armor']",[noun],,4
+"['霸', '王']","['hegemon', 'overlord', 'despot']",[noun],,4
+"['亲', '王']",['prince'],[noun],,3
+"['王', '储']","['Crown Prince', 'heir to throne']",[noun],,3
+"['王', '宫']",['imperial palace'],[noun],,3
+"['王', '权']","['royalty', 'royal power']",[noun],,3
+"['王', '法']","['the law', 'the law of the land', 'the law of a state (in former times)', 'criterion']",[noun],,3
+"['汉', '堡', '王']",['Burger King (fast food restaurant)'],[noun],,2
+"['开', '始']","['begin', ' start']","[verb, noun]", [HSK: 2],5
+"['离', '开']","['to depart', 'to leave']",[verb], [HSK: 3],5
+"['开', '心']","['to feel happy', 'to rejoice', 'to have a great time', 'to make fun of somebody']",[adj], [HSK: 4],5
+"['开', '玩', '笑']","['joke', ' crack a joke', ' make fun of']",[verb], [HSK: 4],5
+"['公', '开']","['public', 'to publish', 'to make public']",[adj], [HSK: 5],5
+"['召', '开']","['to convene (a conference or meeting)', 'to convoke', 'to call together']",[verb], [HSK: 5],4
+"['展', '开']","['to unfold', 'to carry out', 'to be in full swing', 'to launch']",[verb], [HSK: 5],5
+"['开', '发']","[' develop', ' exploit']",[verb], [HSK: 5],5
+"['开', '幕', '式']",['opening ceremony'],[noun], [HSK: 5],4
+"['开', '放']","['to lift (a ban or restriction)', 'to open to the outside world (politics)', 'to open for public use', 'to come into bloom (of flowers)']","[adj, verb]", [HSK: 5],5
+"['开', '水']","['boiled water', 'boiling water']",[noun], [HSK: 5],3
+"['开', '展']","[' carry out', ' develop', ' launch']",[verb], [HSK: 6],4
+"['开', '拓']",[' open up'],[verb], [HSK: 6],3
+"['开', '支']",[' expenses'],[noun], [HSK: 6],4
+"['开', '明']","['enlightened', 'open-minded', 'enlightenment']",[adj], [HSK: 6],3
+"['开', '朗']","['spacious and well-lit', 'open and clear', 'to open out (onto a wider vista)', 'optimistic', 'cheerful', 'carefree', 'easy-going', 'open-minded']",[adj], [HSK: 6],4
+"['开', '辟']","['to open up', 'to set up', 'to start', 'to build']",[verb], [HSK: 6],3
+"['开', '采']","['to exploit', 'to mine']",[verb], [HSK: 6],4
+"['开', '阔']","['wide', 'open (spaces)', 'to open up']",[adj], [HSK: 6],4
+"['开', '除']",['to expel'],[verb], [HSK: 6],5
+"['敞', '开']","['to open wide', 'unrestrictedly']",[verb], [HSK: 6],5
+"['盛', '开']","['blooming', 'in full flower']",[verb], [HSK: 6],4
+"['分', '开']","['to separate', 'to part']",[verb],,5
+"['开', '会']","['have a meeting', 'be at a meeting', 'to hold or attend a meeting']",[verb],,5
+"['井', '井', '有', '条']","['everything clear and orderly', ' neat and tidy']",[idiom],,4
+"['油', '井']",['oil well'],[noun],,4
+"['矿', '井']",[' mine'],[noun],,4
+"['井', '底', '之', '蛙']","['a frog at the bottom of a well', ' fig. an ignorant person']",[idiom],,3
+"['井', '然', '有', '序']","['everything clear and in good order', ' neat and tidy']",[idiom],,3
+"['市', '井']",['market place\n'],[noun],,3
+"['水', '井']",['(water) well'],[noun],,3
+"['背', '井', '离', '乡']","[""to leave one's native place"", "" esp. against one's will""]",[idiom],,3
+"['落', '井', '下', '石']",[' to hit a person who is down'],[idiom],,3
+"['钻', '井']","['to drill (e.g. for oil)', 'a borehole']",[verb],,3
+"['井', '冈', '山']","['Jinggang Mountains', ' in the Jiangxi-Hunan border region']",[noun],,2
+"['井', '口']",['entrance to mine'],[noun],,2
+"['坐', '井', '观', '天']",[' ignorant and narrow-minded'],[idiom],,2
+"['王', '府', '井']",[' famous for shopping'],[noun],,2
+"['离', '乡', '背', '井']","['to live far from home', ""away from one's native place"", 'to leave for a foreign land']",[idiom],,2
+"['秩', '序', '井', '然']",['in perfect order'],[adj],,2
+"['临', '渴', '掘', '井']",[],[idiom],,1
+"['井', '喷']","['(oil) blowout', ' surge', ' gush']","[verb, noun]",,1
+"['井', '然']","['tidy', ' methodical']",[adj],,1
+"['投', '井', '下', '石']",[' to hit a person who is down'],[idiom],,1
+"['西', '湖', '龙', '井']",[],[noun],,1
+"['钻', '井', '平', '台']",['(oil) drilling platform'],[noun],,1
+"['龙', '井', '茶']",['Longjing (tea)'],[noun],,1
+"['今', '天']","['today', 'at the present', 'now']",[noun], [HSK: 1],5
+"['天', '气']",['weather'],[noun], [HSK: 1],5
+"['明', '天']",['tomorrow'],[noun], [HSK: 1],5
+"['昨', '天']",['yesterday'],[noun], [HSK: 1],5
+"['聊', '天']",[' to chat'],[verb], [HSK: 3],5
+"['礼', '拜', '天']",[' Sunday'],[noun], [HSK: 4],4
+"['天', '真']","['naive', 'innocent', 'artless']",[adj], [HSK: 5],5
+"['天', '空']",['sky'],[noun], [HSK: 5],5
+"['天', '伦', '之', '乐']","['pleasure of heavenly agreement', ' family love and joy', 'domestic bliss']",[idiom], [HSK: 6],3
+"['天', '堂']","['paradise', 'heaven']",[noun], [HSK: 6],5
+"['天', '才']","['talent', 'gift', 'genius', 'talented', 'gifted']",[noun], [HSK: 6],5
+"['天', '文']","[' celestial-phenomena', ' astronomy']",[noun], [HSK: 6],3
+"['天', '然', '气']",['natural gas'],[noun], [HSK: 6],4
+"['天', '生']","['nature', 'disposition', 'innate', 'natural']",[adj], [HSK: 6],5
+"['天', '赋']","['gift', 'innate skill']",[noun], [HSK: 6],5
+"['得', '天', '独', '厚']","['(of an area) rich in resources', '(of a person) gifted or able']",[idiom], [HSK: 6],2
+"['成', '天']","['(coll.) all day long', 'all the time']",[adv], [HSK: 6],4
+"['航', '天']",['space flight'],[noun], [HSK: 6],4
+"['一', '整', '天']",['a whole day\n'],[noun],,5
+"['冬', '天']",['winter'],[noun],,5
+"['夏', '天']",[' summer'],[noun],,5
+"['天', '上']","['celestial', 'heavenly']",[noun],,5
+"['天', '下']","['land under heaven', 'the whole world', 'the whole of China', 'realm', 'rule', 'domination']",[noun],,5
+"['天', '使']",['angel'],[noun],,5
+"['丈', '夫']",['husband'],[noun], [HSK: 2],5
+"['功', '夫']","['skill', 'art', 'kung fu', 'labor', 'effort']",[noun], [HSK: 4],5
+"['大', '夫']","['doctor', ' physician']",[noun], [HSK: 4],5
+"['夫', '人']","['lady', 'madam', 'Mrs.']",[noun], [HSK: 6],5
+"['夫', '妇']","[' husband and wife', ' couple']",[noun], [HSK: 6],5
+"['前', '夫']",['ex-husband'],[noun],,5
+"['夫', '妻']",['man and wife'],[noun],,5
+"['懦', '夫']",['coward'],[noun],,5
+"['未', '婚', '夫']",['fiancé'],[noun],,5
+"['杰', '夫']",['Jeff (name)'],[noun],,5
+"['高', '尔', '夫']",['golf'],[noun],,5
+"['克', '利', '夫', '兰']",['Cleveland'],[noun],,4
+"['农', '夫']","['peasant', ' farmer']",[noun],,4
+"['姐', '夫']","[""(informal) older sister's husband""]",[noun],,4
+"['屠', '夫']","['butcher', 'fig. murderous dictator']",[noun],,4
+"['工', '夫']","['time', 'spare time', 'skill', 'labor', 'effort']",[noun],,4
+"['渔', '夫']",['fisherman'],[noun],,4
+"['高', '尔', '夫', '球']","['golf', 'golf ball']",[noun],,4
+"['下', '功', '夫']","[""concentrate one's efforts""]",[verb],,3
+"['凡', '夫', '俗', '子']","['common people', 'ordinary folk']",[noun],,3
+"['功', '夫', '片']",['kung fu movie\n'],[noun],,3
+"['大', '丈', '夫']","[' true man', ' real man']",[noun],,3
+"['妹', '夫']","[""younger sister's husband""]",[noun],,3
+"['元', '旦']","[""New Year's Day""]",[noun], [HSK: 5],3
+"['公', '元']","['(year) AD', 'Christian era']",[noun], [HSK: 5],4
+"['单', '元']","['unit', 'entrance number', 'staircase (for residential buildings)']",[noun], [HSK: 5],4
+"['元', '宵', '节']",['the Lantern Festival'],[noun], [HSK: 6],3
+"['元', '素']","['element', 'element of a set', 'chemical element']",[noun], [HSK: 6],5
+"['元', '首']",['head of state'],[noun], [HSK: 6],5
+"['多', '元', '化']","['diversification', 'pluralism', 'to diversify']",[noun], [HSK: 6],3
+"['美', '元']","['American dollar', 'US dollar']",[noun],,5
+"['元', '老']","['grandee', 'old leadership', 'chief figure (in a gerontocracy)']",[noun],,4
+"['公', '元', '前']",['BC (before Christ)'],"[noun, adj]",,4
+"['日', '元']",[' Japanese yen'],[noun],,4
+"['欧', '元']",['Euro (currency)'],[noun],,4
+"['二', '元']","['two yuan', 'two dollars', 'binary']",[noun],,3
+"['元', '件']","[' element', ' component']",[noun],,3
+"['元', '凶']","['chief offender', ' main culprit']",[noun],,3
+"['元', '帅']",['marshal (in the army)'],[noun],,3
+"['元', '气']","['strength', 'vigor', 'vitality']",[noun],,3
+"['元', '音']",['vowel\n'],[noun],,3
+"['微', '量', '元', '素']",['trace element (chemistry)'],[noun],,3
+"['新', '纪', '元']","['new era', ' new epoch']",[noun],,3
+"['状', '元']",[],[noun],,3
+"['元', '代']",['Yuan dynasty (1279-1368)'],[noun],,2
+"['元', '勋']","['leading light', ' founding father', ' principal proponent']",[noun],,2
+"['元', '宵']","[' Yuan-night', ' night of Shangyuan Festival', ' rice dumpling']",[noun],,2
+"['无', '聊']","['nonsense', 'bored']",[adj], [HSK: 4],5
+"['无', '论']","['no matter what or how', 'regardless of whether...']","[adv, conj]", [HSK: 4],5
+"['无', '奈']","['helpless', ' without choice', ' for lack of better option', ' grudgingly', ' willy-nilly', ' nolens volens']",[adv], [HSK: 5],4
+"['无', '所', '谓']","['to be indifferent', 'not to matter']",[verb], [HSK: 5],5
+"['无', '数']","['countless', 'numberless', 'innumerable']",[adj], [HSK: 5],5
+"['无', '偿']","['free', 'no charge', 'at no cost']",[adj], [HSK: 6],3
+"['无', '动', '于', '衷']","['aloof', 'indifferent', 'unconcerned']",[idiom], [HSK: 6],4
+"['无', '微', '不', '至']","['in every possible way', ' meticulous']",[idiom], [HSK: 6],3
+"['无', '忧', '无', '虑']",['carefree and without worries'],[idiom], [HSK: 6],4
+"['无', '比']",['matchless'],[adv], [HSK: 6],5
+"['无', '理', '取', '闹']","['to make trouble without reason', ' deliberately awkward', 'pointless provocation', 'willful trouble maker']",[idiom], [HSK: 6],4
+"['无', '知']","['ignorant', 'ignorance']",[noun], [HSK: 6],5
+"['无', '穷', '无', '尽']","['vast and limitless', ' endless span of time', ' no vestige of a beginning', ' no prospect of an end']",[idiom], [HSK: 6],3
+"['无', '精', '打', '采']","['dispirited and downcast', ' listless', 'in low spirits', 'washed out']",[idiom], [HSK: 6],4
+"['无', '耻']","['without any sense of shame', 'unembarrassed', 'shameless']",[adj], [HSK: 6],5
+"['无', '能', '为', '力']","['impotent', 'powerless', 'helpless']",[idiom], [HSK: 6],5
+"['无', '赖']","['hoodlum', 'rascal', 'rogue', 'rascally', 'scoundrelly']",[noun], [HSK: 6],4
+"['无', '辜']","['innocent', 'innocence', 'not guilty (law)']",[adj], [HSK: 6],5
+"['无', '非']","[' nothing but', ' no more than']",[adv], [HSK: 6],4
+"['毫', '无']","['not in the least', 'none whatsoever', 'completely without']",[adv], [HSK: 6],5
+"['肆', '无', '忌', '惮']","['absolutely unrestrained', 'unbridled', 'without the slightest scruple']","[adj, adv]", [HSK: 6],3
+"['鸦', '雀', '无', '声']","['lit. crow and peacock make no sound', 'absolute silence', ' not a single voice can be heard', 'absolute silence']",[idiom], [HSK: 6],2
+"['一', '无', '所', '有']","['not having anything at all', ' utterly lacking', 'without two sticks to rub together']",[idiom],,5
+"['别', '无', '选', '择']",['to have no other choice'],[idiom],,5
+"['乌', '云']",['black cloud'],[noun],,4
+"['云', '彩']",[' cloud'],[noun],,4
+"['云', '霄']",['(the) skies'],[noun],,4
+"['烟', '消', '云', '散']","['disappear', 'vanish like smoke in thin air']",[idiom],,4
+"['不', '知', '所', '云']","['to not know what somebody is driving at', 'to be unintelligible']",[idiom],,3
+"['九', '霄', '云', '外']","['beyond the topmost clouds', ' unimaginably far away']",[idiom],,3
+"['云', '南']",['Yunnan province\n'],[noun],,3
+"['云', '朵']",['sheet of cloud\n'],[noun],,3
+"['云', '端']",['fig. high in the clouds'],[noun],,3
+"['云', '雀']","['lark', ' skylark']",[noun],,3
+"['云', '集']","['to gather (in a crowd)', ' to converge', ' to swarm\n']",[verb],,3
+"['平', '步', '青', '云']","['to rapidly go up in the world', 'meteoric rise (of a career', ' social position etc)']",[idiom],,3
+"['星', '云']",['nebula'],[noun],,3
+"['疑', '云']",['a haze of doubts and suspicions'],[noun],,3
+"['白', '云']",['white cloud'],[noun],,3
+"['翻', '云', '覆', '雨']","["" fig. to shift one's ground"", 'tricksy and inconstant']",[idiom],,3
+"['蘑', '菇', '云']",['mushroom cloud'],[noun],,3
+"['行', '云', '流', '水']","['lit. moving clouds and flowing water', ' writing', ' etc', ' natural and unforced']",[idiom],,3
+"['风', '云', '人', '物']","['the man of the moment', ' a prominent personality']",[idiom],,3
+"['云', '南', '省']",['Yunnan province\n'],[noun],,2
+"['云', '雾']",['clouds and mist'],[noun],,2
+"['吞', '云', '吐', '雾']","['to swallow clouds and blow out fog', ' to blow cigarette or opium smoke']",[idiom],,2
+"['多', '云']",['cloudy (meteorology)'],[adj],,2
+"['拨', '云', '见', '日']",[' fig. to restore justice'],[idiom],,2
+"['专', '业']","[' specialty', ' specialized field']",[noun], [HSK: 4],5
+"['专', '门']","['specialist', 'specialized', 'customized']",[noun], [HSK: 4],5
+"['专', '家']","['expert', ' specialist']",[noun], [HSK: 5],5
+"['专', '心']","['to concentrate', 'absorption', 'concentration', 'engrossed']",[adv], [HSK: 5],5
+"['专', '利']",['patent'],[noun], [HSK: 6],4
+"['专', '程']",['special-purpose trip'],[noun], [HSK: 6],4
+"['专', '长']","['specialty', 'special knowledge or ability']",[noun], [HSK: 6],4
+"['专', '题']",['special topic'],[noun], [HSK: 6],4
+"['专', '注']","['concentrated', 'single-mindedly devoted to']",[verb],,5
+"['专', '辑']","['album', 'record (music)']",[noun],,5
+"['专', '卖', '店']",['specialty store'],[noun],,4
+"['专', '员']","['assistant director', 'commissioner']",[noun],,4
+"['专', '栏']",['special column'],[noun],,4
+"['专', '横']","['imperious', 'peremptory']",[adj],,4
+"['专', '用']","['special', 'dedicated']",[adj],,4
+"['专', '访']",['exclusive interview'],[noun],,4
+"['专', '一']","['single-minded', 'concentrated']",[adj],,3
+"['专', '业', '性']","['professionalism', ' expertise']",[noun],,3
+"['专', '业', '户']",[' specialized households'],[noun],,3
+"['专', '人']","['specialist', 'person appointed for specific task']",[noun],,3
+"['专', '列']",['special train'],[noun],,3
+"['专', '利', '权']",['patent right'],[noun],,3
+"['专', '制']","['autocracy', 'dictatorship']",[noun],,3
+"['专', '卖']","['monopoly', 'exclusive right to trade']",[noun],,3
+"['乞', '丐']",['beggar'],[noun], [HSK: 6],4
+"['丐', '帮']","[""beggars' union"", 'a group of beggars']",[noun],,1
+"['扎', '实']","['strong', 'solid', 'sturdy', 'firm', 'practical']",[adj], [HSK: 6],3
+"['挣', '扎']","['to struggle', 'struggling']",[verb], [HSK: 6],5
+"['驻', '扎']","['to station', 'to garrison (troops)']",[verb], [HSK: 6],4
+"['包', '扎']","['to wrap up', 'to pack', 'to bind up (a wound)']",[verb],,4
+"['垂', '死', '挣', '扎']","['deathbed struggle', 'final struggle']",[idiom],,3
+"['扎', '根']",['take root'],[verb],,3
+"['扎', '营']","['to camp', 'to pitch camp', 'stationed', 'quartered', 'Taiwan pr. zha2 ying2']",[verb],,3
+"['扎', '针']",[],[verb],,3
+"['安', '营', '扎', '寨']",['to set up camp'],[verb],,2
+"['扎', '啤']",['draught beer'],[noun],,2
+"['扎', '堆']",['to gather together'],[verb],,2
+"['扎', '扎', '实', '实']","['firm', 'solid', 'reliable', 'real', 'practical']",[adj],,2
+"['稳', '扎', '稳', '打']",['fig. steadily and surely'],[idiom],,2
+"['卡', '尔', '扎', '伊']","['Hamid Karzai (1957-)', ' Afghan politician', ' president from 2004']",[noun],,1
+"['绑', '扎']","['to bind', 'to wrap up', 'binding (computer science)']",[verb],,1
+"['艺', '术']","[' art', ' skill', ' craft']",[noun], [HSK: 4],5
+"['工', '艺', '品']",['arts and crafts'],[noun], [HSK: 6],3
+"['手', '艺']","['craftmanship', 'workmanship', 'handicraft', 'trade']",[noun], [HSK: 6],4
+"['文', '艺']",['literature and art'],[noun], [HSK: 6],3
+"['艺', '术', '品']","['art piece', ' work of art']",[noun],,5
+"['艺', '术', '家']",['artist'],[noun],,5
+"['厨', '艺']","['cooking', 'cooking skill']",[noun],,4
+"['园', '艺']","['gardening', 'horticultural']",[noun],,4
+"['多', '才', '多', '艺']",['multi-talented'],[idiom],,4
+"['技', '艺']","['skill', 'art']",[noun],,4
+"['文', '艺', '复', '兴']",['the Renaissance'],[noun],,4
+"['演', '艺']",['performing arts'],[noun],,4
+"['演', '艺', '圈']",['Show Business'],[noun],,4
+"['艺', '人']","['performing artist', 'actor']",[noun],,4
+"['卖', '艺']",['street performance\n'],[verb],,3
+"['工', '艺']","['arts and crafts', 'industrial arts']",[noun],,3
+"['手', '工', '艺']","['handicraft', 'arts and crafts']",[noun],,3
+"['手', '工', '艺', '品']",['handicrafts\n'],[noun],,3
+"['武', '艺']","['martial art', ' military skill']",[noun],,3
+"['演', '艺', '界']","['performing arts circles', ' show business']",[noun],,3
+"['综', '艺']",['comprehensive arts and entertainment'],[noun],,3
+"['艺', '术', '界']",['the art world\n'],[noun],,3
+"['艺', '术', '馆']",['art museum\n'],[noun],,3
+"['园', '艺', '师']",['horticulturalist\n'],[noun],,2
+"['木', '头']","['slow-witted', ' blockhead', ' log', 'wood', ' timber']",[noun], [HSK: 5],5
+"['麻', '木']","['numb', 'insensitive', 'apathetic']",[adj], [HSK: 6],2
+"['伐', '木']","['to cut wood', 'tree-felling', 'lumbering']",[verb],,4
+"['木', '乃', '伊']",['mummy (preserved corpse)'],[noun],,4
+"['木', '偶']",['puppet'],[noun],,4
+"['木', '匠']",['carpenter'],[noun],,4
+"['木', '星']",['Jupiter (planet)'],[noun],,4
+"['木', '材']",['wood'],[noun],,4
+"['木', '板']",['wooden board\n'],[noun],,4
+"['木', '棍']",['wooden stick'],[noun],,4
+"['树', '木']",['trees'],[noun],,4
+"['灌', '木']","['bush', 'shrub']",[noun],,4
+"['灌', '木', '丛']","['shrub', 'shrubbery']",[noun],,4
+"['平', '衡', '木']",['balance beam\n'],[noun],,3
+"['木', '偶', '戏']",['puppet show\n'],[noun],,3
+"['木', '制']",['wooden'],[adj],,3
+"['木', '块']",['block'],[noun],,3
+"['木', '屐']",['wooden clogs'],[noun],,3
+"['木', '屑']","['wood shavings', ' sawdust']",[noun],,3
+"['木', '工']","['woodwork', 'carpentry', 'woodworker', 'carpenter']",[noun],,3
+"['木', '已', '成', '舟']",[' fig. what is done cannot be undone'],[idiom],,3
+"['木', '料']","['lumber', 'timber']",[noun],,3
+"['木', '柴']",['firewood'],[noun],,3
+"['木', '桶']",['cask'],[noun],,3
+"['周', '五']",['Friday\n'],[noun],,5
+"['星', '期', '五']",['Friday'],[noun],,5
+"['第', '五']",['fifth'],[num],,5
+"['二', '十', '五']",['25\n'],[num],,4
+"['五', '十']",['fifty'],[num],,4
+"['五', '月']","['May', 'fifth month (of the lunar year)']",[noun],,4
+"['五', '角', '大', '楼']",['the Pentagon'],[noun],,4
+"['五', '金', '店']","['hardware store', "" ironmonger's store""]",[noun],,4
+"['十', '五']","['fifteen', '15']",[num],,4
+"['礼', '拜', '五']",['Friday'],[noun],,4
+"['一', '五', '一', '十']",['lit. count by fives and tens'],[idiom],,3
+"['五', '一']",['5-1 (May 1st)'],[noun],,3
+"['五', '体', '投', '地']","['to prostrate oneself in admiration', ' to adulate somebody']",[idiom],,3
+"['五', '分', '之', '一']",['one fifth'],[num],,3
+"['五', '官']","[' eyes', ' lips', ' nose', ' and tongue\n']",[noun],,3
+"['五', '彩']","['five (main) colors (white', ' black', ' red', ' yellow', ' and blue)', 'multicolored']","[noun, adj]",,3
+"['五', '星', '级']",['five-star (hotel)'],"[adj, noun]",,3
+"['五', '月', '份']",['May'],[noun],,3
+"['五', '脏', '六', '腑']",[],[noun],,3
+"['五', '花', '八', '门']","['myriad', 'all kinds of', 'all sorts of']",[idiom],,3
+"['五', '金']","[' silver', ' copper', ' iron', ' tin)\n']",[noun],,3
+"['五', '音']","['five notes of pentatonic scale', ' roughly do', ' re', ' mi', ' sol', ' la']",[noun],,3
+"['五', '颜', '六', '色']","['multi-colored', 'every color under the sun']",[idiom],,3
+"['三', '五', '成', '群']",[' people stand around in small clumps'],[idiom],,2
+"['支', '持']","[' support', ' back', ' espouse']",[verb], [HSK: 4],5
+"['支', '票']",['check'],[noun], [HSK: 5],5
+"['开', '支']",[' expenses'],[noun], [HSK: 6],4
+"['支', '出']","['to spend', 'to pay out', 'expense']","[noun, verb]", [HSK: 6],4
+"['支', '援']","['to provide assistance', 'to support', 'to back']",[verb], [HSK: 6],5
+"['支', '撑']","['to prop up', 'to support', 'strut', 'brace']",[verb], [HSK: 6],4
+"['支', '柱']","['mainstay', 'pillar', 'prop', 'backbone']",[noun], [HSK: 6],4
+"['支', '配']","['to dominate', 'to allocate']",[verb], [HSK: 6],4
+"['支', '付']",['to pay (money)'],[verb],,5
+"['枪', '支']","['a gun', 'guns in general']",[noun],,5
+"['分', '支']","['branch (of company', ' river etc)', 'to branch', 'to diverge', 'to ramify', 'to subdivide']",[noun],,4
+"['支', '持', '者']",['supporter'],[noun],,4
+"['支', '架']","['trestle', ' support', ' frame', ' to prop something up']",[noun],,4
+"['支', '点']",['fulcrum (for a lever)'],[noun],,4
+"['支', '离', '破', '碎']",['scattered and smashed'],[idiom],,4
+"['透', '支']",['(bank) overdraft'],[adj],,4
+"['支', '支', '吾', '吾']","['to hem and haw', 'to stall', 'to stammer', 'to mumble', 'to falter']",[idiom],,3
+"['支', '票', '簿']",['checkbook (banking)'],[noun],,3
+"['支', '线']","['branch line', ' side road', ' spur', ' fig. secondary plot (in a story)']",[noun],,3
+"['支', '行']",['sub-branch of a bank'],[noun],,3
+"['收', '支']","['cash flow', 'financial balance', 'income and expenditure']",[noun],,3
+"['空', '头', '支', '票']","['check dishonored', ' bad cheque\n']",[noun],,3
+"['超', '支']",['to overspend'],[verb],,3
+"['预', '支']","['to pay in advance', 'to get payment in advance']",[verb],,3
+"['客', '厅']",[' living room'],[noun], [HSK: 4],5
+"['餐', '厅']","[' restaurant', ' dining room']",[noun], [HSK: 4],5
+"['大', '厅']","['hall', 'lounge']",[noun],,5
+"['市', '政', '厅']",['city hall'],[noun],,4
+"['舞', '厅']",[' ballroom'],[noun],,4
+"['饭', '厅']","['dining room', 'dining hall', 'mess hall']",[noun],,4
+"['前', '厅']","['anteroom', 'vestibule', 'lobby (of a hotel etc)']",[noun],,3
+"['宴', '会', '厅']","['ballroom', 'banqueting hall']",[noun],,3
+"['展', '厅']",['exhibition hall\n'],[noun],,3
+"['门', '厅']","['entrance hall', 'vestibule']",[noun],,3
+"['音', '乐', '厅']","['concert hall', 'auditorium']",[noun],,3
+"['一', '房', '一', '厅']",['one bedroom and one living room'],[noun],,2
+"['中', '餐', '厅']",['Chinese restaurant\n'],[noun],,2
+"['会', '议', '厅']",['conference hall'],[noun],,2
+"['候', '机', '大', '厅']",['(flight) waiting hall\n'],[noun],,2
+"['办', '公', '厅']",['general office'],[noun],,2
+"['厅', '堂']",['hall'],[noun],,2
+"['咖', '啡', '厅']",['coffee shop'],[noun],,2
+"['歌', '厅']","['karaoke hall', 'disco hall']",[noun],,2
+"['歌', '舞', '厅']",['nightclub\n'],[noun],,2
+"['演', '讲', '厅']","['auditorium', ' lecture hall\n']",[noun],,2
+"['理', '发', '厅']","[""(Taiwan) barber's shop"", "" hairdresser's""]",[noun],,2
+"['美', '发', '厅']",['hair salon\n'],[noun],,2
+"['自', '助', '餐', '厅']",['buffet\n'],[noun],,2
+"['不', '客', '气']","[""you're welcome"", 'impolite', 'rude', 'blunt', ""don't mention it""]",[adj], [HSK: 1],3
+"['对', '不', '起']","['unworthy', 'to let down', ""I'm sorry"", 'excuse me', 'pardon me', 'if you please', 'sorry? (please repeat)']","[adj, verb]", [HSK: 1],5
+"['不', '但']",['not only (... but also...)'],"[adv, conj]", [HSK: 3],4
+"['不', '仅']","['not only (this one)', 'not just (...) but also']",[conj], [HSK: 4],5
+"['不', '得', '不']","['have no choice or option but to', 'cannot but', 'have to', ""can't help it"", ""can't avoid""]",[adv], [HSK: 4],5
+"['不', '管']","['no matter (what', ' how)', 'regardless of', 'no matter']","[adv, conj]", [HSK: 4],5
+"['不', '过']","['only', 'merely', 'no more than', 'but', 'however']","[adv, conj]", [HSK: 4],5
+"['受', '不', '了']",['unbearable'],[verb], [HSK: 4],5
+"['差', '不', '多']","['almost', 'nearly', 'more or less']",[adv], [HSK: 4],5
+"['来', '不', '及']","[""there's not enough time""]",[adv], [HSK: 4],5
+"['不', '如']","['not equal to', 'not as good as', 'inferior to', 'it would be better to']","[adj, conj]", [HSK: 5],5
+"['不', '安']","['unpeaceful', 'unstable', 'uneasy', 'disturbed', 'restless', 'worried']",[adj], [HSK: 5],5
+"['不', '得', '了']","['desperately serious', 'disastrous', 'extremely', 'exceedingly']","[adj, adv]", [HSK: 5],4
+"['不', '断']","['unceasing', 'uninterrupted', 'continuous', 'constant']","[adj, adv]", [HSK: 5],5
+"['不', '然']","['not so', 'no', 'or else', 'otherwise', 'if not']","[adv, conj]", [HSK: 5],5
+"['不', '耐', '烦']","['impatience', 'impatient']","[noun, adj]", [HSK: 5],4
+"['不', '要', '紧']","['unimportant', 'not serious', ""it doesn't matter"", 'never mind', 'it looks all right', 'but']",[adj], [HSK: 5],5
+"['不', '见', '得']","['not necessarily', 'not likely']",[adv], [HSK: 5],4
+"['不', '足']","['insufficient', 'lacking', 'deficiency', 'not enough', 'inadequate', 'not worth', 'cannot', 'should not']","[adj, adv]", [HSK: 5],5
+"['了', '不', '起']","['amazing', 'terrific', 'extraordinary']",[adj], [HSK: 5],5
+"['忍', '不', '住']","['cannot help', 'unable to bear']",[adv], [HSK: 5],5
+"['怪', '不', '得']","['no wonder', "" so that's why"", ' put no blame on']",[adv], [HSK: 5],5
+"['看', '不', '起']",['look down upon'],[verb], [HSK: 5],4
+"['舍', '不', '得']","['to hate to do something', 'to hate to part with', 'to begrudge']",[verb], [HSK: 5],4
+"['牧', '羊', '犬']",['sheepdog'],[noun],,4
+"['狂', '犬', '病']",['rabies'],[noun],,4
+"['猎', '犬']","['hound', 'hunting dog']",[noun],,4
+"['警', '犬']",['police dog'],[noun],,4
+"['丧', '家', '之', '犬']","['lit. a homeless dog', ' fig. homeless and with nowhere to go']",[idiom],,2
+"['犬', '齿']",['canine tooth'],[noun],,2
+"['鸡', '犬', '不', '宁']","[' fig. great commotion', ' pandemonium']",[idiom],,2
+"['鸡', '犬', '升', '天']","['lit. poultry and dogs rise to Heaven', ""fig. to ride on somebody else's success"", 'Once one man gets a government position', ' all his cronies get in too', 'Once somebody has cracked the problem', ' every Tom', ' Dick and Harry can do it']",[idiom],,2
+"['导', '盲', '犬']","['guide dog (for the blind)', ' Seeing Eye dog']",[noun],,1
+"['小', '犬']",['puppy'],[noun],,1
+"['比', '特', '犬']",['pit bull (loanword)'],[noun],,1
+"['犬', '科']",['the canines'],[noun],,1
+"['疯', '犬']","['mad dog', 'rabid dog']",[noun],,1
+"['太', '阳']",[' the sun'],[noun], [HSK: 3],5
+"['太', '太']","[' wife', ' Madame', ' Lady', ' Mrs.']",[noun], [HSK: 5],5
+"['太', '极', '拳']",[],[noun], [HSK: 5],3
+"['太', '空']",['outer space'],[noun], [HSK: 6],5
+"['犹', '太']","['Jew', ' Jewish', ' Judea (in Biblical Palestine)']",[noun],,5
+"['犹', '太', '人']",['Jew'],[noun],,5
+"['太', '平']",['peace and security'],[adj],,4
+"['太', '平', '洋']",['Pacific Ocean'],[noun],,4
+"['太', '空', '船']",['spaceship'],[noun],,4
+"['太', '阳', '系']",['solar system'],[noun],,4
+"['太', '阳', '能']",['solar energy'],[noun],,4
+"['太', '阳', '镜']",['sun glasses'],[noun],,4
+"['晒', '太', '阳']","['to sunbathe', ' to bask in the sun']",[verb],,4
+"['老', '太', '太']",[' old woman'],[noun],,4
+"['老', '太', '婆']",[' old woman'],[noun],,4
+"['太', '后']",['Empress Dowager'],[noun],,3
+"['太', '子']",['crown prince'],[noun],,3
+"['太', '监']","['court eunuch', ' palace eunuch']",[noun],,3
+"['太', '空', '服']",['spacesuit'],[noun],,3
+"['太', '空', '站']",['space station'],[noun],,3
+"['太', '空', '舱']","['space capsule', ' ejection capsule (cabin)']",[noun],,3
+"['太', '阳', '穴']",['temple (on the sides of human head)'],[noun],,3
+"['渥', '太', '华']","['Ottawa', ' capital of Canada']",[noun],,3
+"['区', '别']","[' difference', ' distinguish', ' differ']","[noun, verb]", [HSK: 4],5
+"['郊', '区']",[' suburbs'],[noun], [HSK: 4],4
+"['地', '区']","[' area', ' region', ' district']",[noun], [HSK: 5],5
+"['区', '分']","['to differentiate', 'to find differing aspects']",[verb], [HSK: 6],4
+"['区', '域']","['area', 'region', 'district']",[noun], [HSK: 6],5
+"['社', '区']",['community'],[noun], [HSK: 6],5
+"['市', '区']","['urban district', 'downtown', 'city center']",[noun],,5
+"['街', '区']",['block (between streets)'],[noun],,5
+"['住', '宅', '区']","['residential area', ' housing development']",[noun],,4
+"['小', '区']","['neighborhood', ' district']",[noun],,4
+"['山', '区']",['mountain area'],[noun],,4
+"['时', '区']",['time zone'],[noun],,4
+"['特', '区']",[' special zone'],[noun],,4
+"['禁', '区']","['restricted area', 'forbidden region']",[noun],,4
+"['贫', '民', '区']","['slum area', 'ghetto']",[noun],,4
+"['保', '护', '区']","['protected area', ' conservation area\n']",[noun],,3
+"['分', '区']","['allocated area (for housing', ' industry etc)', 'district']",[noun],,3
+"['区', '区']",['trivial'],[adj],,3
+"['区', '长']",['district chief'],[noun],,3
+"['商', '业', '区']","['business district', 'downtown']",[noun],,3
+"['城', '区']","['city district', 'urban area']",[noun],,3
+"['安', '全', '区']","['a safe area', 'a security zone']",[noun],,3
+"['居', '民', '区']",['living area'],[noun],,3
+"['工', '业', '区']",['industrial zone'],[noun],,3
+"['历', '史']","['history', ' past records']",[noun], [HSK: 3],5
+"['经', '历']","[' undergo', ' experience']",[noun], [HSK: 4],5
+"['学', '历']","['educational background', 'academic qualifications']",[noun], [HSK: 5],4
+"['日', '历']",['calendar'],[noun], [HSK: 5],4
+"['简', '历']","['Curriculum Vitae (CV)', 'résumé (resume)', 'biographical notes']",[noun], [HSK: 5],4
+"['农', '历']","['the traditional Chinese calendar', 'the lunar calendar']",[noun], [HSK: 6],3
+"['历', '代']","['successive generations', 'successive dynasties', 'past dynasties']",[noun], [HSK: 6],3
+"['历', '来']","['always', 'throughout (a period of time)', '(of) all-time']",[adv], [HSK: 6],3
+"['来', '历']","['history', 'antecedents', 'origin']",[noun], [HSK: 6],4
+"['历', '史', '性']",['historic'],[noun],,4
+"['历', '程']","['course', 'process']",[noun],,4
+"['历', '经']","['to experience', ' to go through']",[verb],,4
+"['历', '险']",['to experience adventures'],[verb],,4
+"['履', '历']","['curriculum vitae', 'career information', 'career']",[noun],,4
+"['病', '历']","['medical record', 'case history']",[noun],,4
+"['资', '历']","['qualifications', 'experience', 'seniority']",[noun],,4
+"['亲', '历']",['personal experience'],[noun],,3
+"['历', '历', '在', '目']","[""vivid in one's mind""]",[idiom],,3
+"['历', '史', '学', '家']",['historian'],[noun],,3
+"['历', '史', '课']",['history class'],[noun],,3
+"['历', '尽']","['to have experienced a lot of', 'to have been through']",[verb],,3
+"['历', '时']","['to last', 'to take (time)', 'period']",[verb],,3
+"['履', '历', '表']","['curriculum vitae (CV)', 'resume']",[noun],,3
+"['挂', '历']",['wall calendar'],[noun],,3
+"['歹', '徒']","['evil-doer', 'malefactor', 'gangster', 'hoodlum']",[noun], [HSK: 6],4
+"['好', '歹']","['good and bad', 'most unfortunate occurrence', 'in any case', 'whatever']",[adv],,4
+"['为', '非', '作', '歹']","['to break the law and commit crimes', ' malefactor', 'evil-doer', 'to perpetrate outrages']",[idiom],,3
+"['不', '知', '好', '歹']","[""not know what's good for one""]","[verb, adj]",,2
+"['歹', '毒']","['vicious', 'ruthless', 'malevolent']",[adj],,2
+"['不', '识', '好', '歹']","['unable to tell good from bad', 'undiscriminating']",[verb],,1
+"['不', '问', '好', '歹']",['no matter what may happen'],[idiom],,1
+"['好', '说', '歹', '说']",[],[idiom],,1
+"['歹', '意']","['evil intent', 'malice']",[noun],,1
+"['朋', '友']",[' friend'],[noun], [HSK: 1],5
+"['友', '好']",['friendly (relations)'],[adj], [HSK: 4],5
+"['友', '谊']","['companionship', 'fellowship', 'friendship']",[noun], [HSK: 4],5
+"['友', '善']",['friendly'],[adj],,5
+"['女', '友']",['a girlfriend'],[noun],,5
+"['女', '朋', '友']","['female friend', 'girlfriend']",[noun],,5
+"['室', '友']",['roommate\n'],[noun],,5
+"['小', '朋', '友']",[' child'],[noun],,5
+"['男', '友']",['boyfriend'],[noun],,5
+"['男', '朋', '友']","['male friend', 'boyfriend']",[noun],,5
+"['老', '朋', '友']",['old friend'],[noun],,5
+"['队', '友']","['member of same class', ' team', ' work group etc', 'teammate']",[noun],,5
+"['交', '友']",['to make friends'],[verb],,4
+"['交', '朋', '友']","['to make friends', 'to start an affair with somebody']",[verb],,4
+"['亲', '友']",['friends and relatives'],[noun],,4
+"['友', '情']",[' friendship'],[noun],,4
+"['好', '友']","['close friend', ' pal', ' (social networking website) friend']",[noun],,4
+"['密', '友']",['close friend'],[noun],,4
+"['战', '友']","['comrade-in-arms', 'battle companion']",[noun],,4
+"['挚', '友']","['intimate friend', 'close friend']",[noun],,4
+"['校', '友']","['schoolmate', 'alumnus', 'alumna']",[noun],,4
+"['盟', '友']",['ally'],[noun],,4
+"['老', '友']",['old friend'],[noun],,4
+"['亲', '朋', '好', '友']","['friends and family', 'kith and kin']",[noun],,3
+"['尤', '其']","['especially', 'particularly']",[adv], [HSK: 4],5
+"['尤', '物']","['rarity', ' rare object', ' rare person', ' extraordinarily beautiful woman']",[noun],,4
+"['尤', '为']",['especially'],[adv],,3
+"['怨', '天', '尤', '人']",[' to blame the gods and accuse others'],[idiom],,3
+"['尤', '其', '是']","['especially', 'most of all', 'above all', 'in particular']",[adv],,2
+"['效', '尤']",['to follow a bad example'],[verb],,2
+"['匹', '配']","['to mate or marry', 'matching']",[verb],,5
+"['单', '枪', '匹', '马']","['lit. single spear and horse', ' fig. single handed', 'unaccompanied']",[idiom],,4
+"['奥', '林', '匹', '克']",['Olympic'],[noun],,4
+"['阿', '司', '匹', '林']",['aspirin'],[noun],,4
+"['马', '匹']",['horse'],[noun],,4
+"['匹', '敌']","['to be equal to', 'to be well-matched', 'rival']",[verb],,3
+"['奥', '林', '匹', '亚']",['Olympia (Greece)'],[noun],,3
+"['匹', '夫']","['ordinary man', 'ignorant person', 'coarse fellow']",[noun],,2
+"['布', '匹']",['cloth (by the yard)'],[noun],,2
+"['出', '租', '车']","['taxi', '(Taiwan) rental car']",[noun], [HSK: 1],5
+"['火', '车', '站']",['train station'],[noun], [HSK: 1],4
+"['公', '共', '汽', '车']",['bus (for public transit)'],[noun], [HSK: 2],4
+"['自', '行', '车']",['bike'],[noun], [HSK: 3],5
+"['堵', '车']","['traffic jam', 'choking']","[noun, verb]", [HSK: 4],4
+"['列', '车']",['train (railway term)'],[noun], [HSK: 5],5
+"['卡', '车']","['lorry', ' truck']",[noun], [HSK: 5],5
+"['摩', '托', '车']","[' motorcycle', ' motorbike', ' motor bicycle']",[noun], [HSK: 5],5
+"['救', '护', '车']",['ambulance'],[noun], [HSK: 5],5
+"['车', '厢']","[' railway carriage', ' railroad car']",[noun], [HSK: 5],4
+"['车', '库']",['garage'],[noun], [HSK: 5],5
+"['刹', '车']","['to brake (when driving)', 'to stop', 'to switch off', 'to check (bad habits)', 'a brake']","[noun, verb]", [HSK: 6],5
+"['上', '车']","['to get on or into (a bus', ' train', ' car etc)']",[verb],,5
+"['停', '车']","['to stop', 'to park']",[verb],,5
+"['停', '车', '场']","['parking lot', 'car park']",[noun],,5
+"['公', '车']",['bus'],[noun],,5
+"['开', '车']",[' to drive a car'],[verb],,5
+"['拖', '车']","['to tow', ' towed vehicle', ' towing vehicle']",[noun],,5
+"['汽', '车']","[' automobile', ' motor vehicle', ' car']",[noun],,5
+"['火', '车']",['train'],[noun],,5
+"['货', '车']",['van'],[noun],,5
+"['赛', '车']","['auto race', 'cycle race']",[noun],,5
+"['车', '子']",['car'],[noun],,5
+"['车', '牌']",['license plate'],[noun],,5
