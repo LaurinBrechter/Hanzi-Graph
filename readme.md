@@ -13,3 +13,13 @@
 
 - Search for Hanzi Character
 - Search for Words
+- filter by HSK Level
+- filter by word length
+
+# Important
+
+- Graph must be unambiguous.
+
+# Ideas
+
+- work width node components

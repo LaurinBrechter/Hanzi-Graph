@@ -1,0 +1,16 @@
+,0,1,2,3,4
+0,"['毛', '巾']","['towel', '条']",[noun], [M.W.: 条],0
+1,"['围', '巾']","['scarf', ' shawl', '条']",[noun], [M.W.: 条],0
+2,"['头', '巾']","[' kerchief', ' scarf', ' turban', '条']",[noun], [M.W.: 条],4
+3,"['浴', '巾']","['bath towel\n', '条']",[noun], [M.W.: 条],4
+4,"['纸', '巾']","['paper towel', ' napkin', ' facial tissue', '张', '盒']",[noun], [M.W.: 张盒],4
+5,"['餐', '巾']","['napkin', '张']",[noun], [M.W.: 张],4
+6,"['丝', '巾']","['headscarf', 'kerchief', 'silk neckband', '条']",[noun], [M.W.: 条],3
+7,"['手', '巾']","['hand towel', '条']",[noun], [M.W.: 条],3
+8,"['面', '巾', '纸']","['facial tissues\n', '盒', '张']",[noun], [M.W.: 盒张],3
+9,"['餐', '巾', '纸']","['paper napkin', 'serviette', '张']",[noun], [M.W.: 张],3
+10,"['巾', '帼']","['woman', ""woman's headdress (ancient)""]",[noun],,1
+11,"['枕', '巾']","['pillow cloth', '条']",[noun], [M.W.: 条],2
+12,"['红', '领', '巾']","['red neckscarf', 'by extension', ' a member of the Young Pioneers', '条']",[noun], [M.W.: 条],2
+13,"['领', '巾']","['neckcloth', 'neckerchief', '条']",[noun], [M.W.: 条],2
+14,"['巾', '帼', '须', '眉']",['woman with a manly spirit'],[noun],,1
