@@ -19,8 +19,8 @@ import dash_mantine_components as dmc
 
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP], assets_folder="assets/")
-all_words = pd.read_csv("words.csv")
-all_chars = pd.read_csv("chars.csv")
+all_words = pd.read_csv("data/words.csv")
+all_chars = pd.read_csv("data/chars.csv")
 
 
 def generate_edges(word_components: list[str], meaning):
@@ -207,12 +207,12 @@ def update_graph(search_string:str, n_clicks:int):
     print(search_string)
     if n_clicks and search_string!="" and search_string:
 
-        if search_string.isalnum():
-            print("alnum search")
-            df = filter_graph_word(all_words, search_string)
-        else:
-            print("hanzi search")
-            df = filter_graph_hanzi(all_words, search_string)
+        # if search_string.isalnum():
+        #     print("alnum search")
+        #     df = filter_graph_word(all_words, search_string)
+        # else:
+        #     print("hanzi search")
+        df = filter_graph_hanzi(all_words, search_string)
 
 
         node_set, edge_set = gen_graph(df, 1000)
